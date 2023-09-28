@@ -28,7 +28,7 @@ img {
 
 .r-side {
 	width: calc(100% - 300px);
-	background-color: lightsteelblue;
+	background-color: lightcyan;
 } 
 .photo {
 	width: 150px;
@@ -38,7 +38,7 @@ img {
 	overflow: hidden;
 }
 .photo img {
-	margin-left: -20px;
+	margin-bottom: -20px;
 }
 
 .personal-info-block {
@@ -81,4 +81,6 @@ img {
 	justify-content: space-between;
 	padding-right: 20px;
 }
-
+h2, h3, h4, p {
+  text-indent: 1em; 
+}
