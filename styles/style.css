@@ -22,13 +22,13 @@ img {
 .l-side {
 	width: 300px;
 	padding-top: 25px;
-	background-color: #3a5e90;
+	background-color: #800080;
 	color: white;
 }
 
 .r-side {
 	width: calc(100% - 300px);
-	background-color: lightcyan;
+	background-color: #D8BFD8;
 } 
 .photo {
 	width: 150px;
